@@ -1,0 +1,9 @@
+{
+  "name": "hackerhank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.7.8"
+  }
+}
